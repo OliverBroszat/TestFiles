@@ -5,6 +5,8 @@ public class Block {
 	private int lastX;
 	private int lastY;
 	
+	//Ich bin ein klener Kommentar ohne Sinn
+	
 	public int getX() {
 		return x;
 	}
